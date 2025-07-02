@@ -25,8 +25,7 @@ A modern fullstack web app boilerplate built using:
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/nextjs-fullstack-starter.git
-cd nextjs-fullstack-starter
+git clone https://github.com/Vetrivel-VP/nextjs-prisma-postgresssql-shadcn-clerk-starter-template.git
 ```
 
 ### 2. Install Dependencies with PNPM
